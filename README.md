@@ -8,8 +8,6 @@
 Then go to the link in the light blue box (the "terminal") shown below. It will look something like this:
 
 ```
-Your code is running at https://girls-who-code-website-template-amyhua.c9users.io.
-```
 
 Click on the link.
 
