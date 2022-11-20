@@ -11,17 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/amyhua/basic-website-template-node.git"
   },
-  "keywords": [
-    "Who",
-    "Code",
-    "website",
-    "template",
-    "node"
-  ],
-  "author": "YOUR NAME GOES HERE",
-  "bugs": {
-    "url": "https://github.com/amyhua/basic-website-template-node/issues"
-  },
   "homepage": "https://github.com/amyhua/basic-website-template-node#readme",
   "dependencies": {
     "express": "^4.14.0",
